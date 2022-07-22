@@ -1,4 +1,5 @@
 # instagram_homePage_clone
 Instagram home page clone using HTML and CSS
 
-![insta home](https://user-images.githubusercontent.com/106098532/180470766-78654ce0-0e77-44da-b08f-3b00a9a3f3b0.PNG)
+![Capture](https://user-images.githubusercontent.com/106098532/180471082-2c76b79c-5466-4b93-8374-049b53b3e205.PNG)
+
